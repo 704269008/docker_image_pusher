@@ -1,4 +1,4 @@
 #--platform=linux/arm64 node:20.15.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
---platform=linux/amd64 sonarqube:9.9-community
+--platform=linux/amd64 sonarqube:8.9-community
