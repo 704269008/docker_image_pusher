@@ -1,7 +1,5 @@
 #--platform=linux/arm64 node:20.15.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-python:3.10-slim
-openjdk:17-ea-jdk
-openjdk:8u342-jdk
+mybigpai-public-registry.cn-beijing.cr.aliyuncs.com/mybigpai/pairag-api:20251230011545
 
