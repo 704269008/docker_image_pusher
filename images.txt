@@ -2,5 +2,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #mybigpai-public-registry.cn-beijing.cr.aliyuncs.com/mybigpai/pairag-api:20251230011545
-registry.docker-cn.com/jenkins/jenkins:lts-jdk21
+jenkins/jenkins:latest
 
